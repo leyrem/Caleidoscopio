@@ -1,0 +1,426 @@
+fileFormatVersion: 2
+guid: efc4641c87b09424ca0a46cf7b4bc5ed
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6215321160142382155
+    second: pngkey.com-ayy-lmao-png-9325213_6
+  - first:
+      213: 4720852744427535741
+    second: pngkey.com-ayy-lmao-png-9325213_7
+  - first:
+      213: 1079522912315273670
+    second: pngkey.com-ayy-lmao-png-9325213_8
+  - first:
+      213: 6734001590198176355
+    second: pngkey.com-ayy-lmao-png-9325213_18
+  - first:
+      213: 7153998578419516884
+    second: pngkey.com-ayy-lmao-png-9325213_19
+  - first:
+      213: -3501608279170003681
+    second: pngkey.com-ayy-lmao-png-9325213_20
+  - first:
+      213: 1112428041972151431
+    second: pngkey.com-ayy-lmao-png-9325213_30
+  - first:
+      213: -6492031988241161731
+    second: pngkey.com-ayy-lmao-png-9325213_31
+  - first:
+      213: -5624785371835324553
+    second: pngkey.com-ayy-lmao-png-9325213_32
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pngkey.com-ayy-lmao-png-9325213_6
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 314
+        width: 60
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb9eb4c55ebeb9a0800000000000000
+      internalID: -6215321160142382155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-ayy-lmao-png-9325213_7
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 315
+        width: 60
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7df7841f86d38140800000000000000
+      internalID: 4720852744427535741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-ayy-lmao-png-9325213_8
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 315
+        width: 60
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c172738e5c3bfe00800000000000000
+      internalID: 1079522912315273670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-ayy-lmao-png-9325213_18
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 210
+        width: 60
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a8dac94caf37d50800000000000000
+      internalID: 6734001590198176355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-ayy-lmao-png-9325213_19
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 209
+        width: 60
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d54856bdcb184360800000000000000
+      internalID: 7153998578419516884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-ayy-lmao-png-9325213_20
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 208
+        width: 60
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d418982d9c76fc0800000000000000
+      internalID: -3501608279170003681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-ayy-lmao-png-9325213_30
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 103
+        width: 60
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784fee70963207f00800000000000000
+      internalID: 1112428041972151431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-ayy-lmao-png-9325213_31
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 103
+        width: 60
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1a96e8d4ba7e5a0800000000000000
+      internalID: -6492031988241161731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-ayy-lmao-png-9325213_32
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 103
+        width: 60
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77721f5718fb0f1b0800000000000000
+      internalID: -5624785371835324553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-ayy-lmao-png-9325213_0
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 0
+        width: 58
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70de69b9ecb648df876061c52b29472
+      internalID: 735943673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-ayy-lmao-png-9325213_1
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 0
+        width: 60
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170bdac4cdb6c41b59ee9f49efa7956c
+      internalID: 510749414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-ayy-lmao-png-9325213_2
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 0
+        width: 59
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae37e1734fc24809b7a586b2c0d52be
+      internalID: 2129516618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      pngkey.com-ayy-lmao-png-9325213_0: 735943673
+      pngkey.com-ayy-lmao-png-9325213_1: 510749414
+      pngkey.com-ayy-lmao-png-9325213_18: 6734001590198176355
+      pngkey.com-ayy-lmao-png-9325213_19: 7153998578419516884
+      pngkey.com-ayy-lmao-png-9325213_2: 2129516618
+      pngkey.com-ayy-lmao-png-9325213_20: -3501608279170003681
+      pngkey.com-ayy-lmao-png-9325213_30: 1112428041972151431
+      pngkey.com-ayy-lmao-png-9325213_31: -6492031988241161731
+      pngkey.com-ayy-lmao-png-9325213_32: -5624785371835324553
+      pngkey.com-ayy-lmao-png-9325213_6: -6215321160142382155
+      pngkey.com-ayy-lmao-png-9325213_7: 4720852744427535741
+      pngkey.com-ayy-lmao-png-9325213_8: 1079522912315273670
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: scene
+  assetBundleVariant: 
