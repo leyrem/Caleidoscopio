@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/esqueleto1.unity
+- path: Assets/Scenes/Scenes/Testing.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

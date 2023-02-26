@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638129983693272868
-    m_Hash: 4281713390
+      ticks: 638130116575224434
+    m_Hash: 3567869402
   m_LockFileStatus:
     m_FilePath: C:/Users/dquin/Documents/GitHub/Caleidoscopio/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638129983693399858
-    m_Hash: 1968476971
+      ticks: 638130116575224434
+    m_Hash: 1498978437
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
