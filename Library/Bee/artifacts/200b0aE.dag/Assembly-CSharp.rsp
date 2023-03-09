@@ -373,6 +373,7 @@
 "Assets/DialogueEditor/Assets/Scripts/UI/UIConversationButton.cs"
 "Assets/DialogueEditor/Example/ExampleInputManager.cs"
 "Assets/Scenes/scripts/Laser.cs"
+"Assets/Scenes/scripts/PlantarSemilla.cs"
 "Assets/Scenes/scripts/PlayerMovement.cs"
 "Assets/Scenes/scripts/PressButton.cs"
 "Assets/Scenes/scripts/PressButtonDialogue.cs"
