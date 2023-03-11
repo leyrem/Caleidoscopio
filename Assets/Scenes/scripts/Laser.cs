@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Laser : MonoBehaviour
 {
-
+    public Vector2 orientation = new Vector2();
     private LineRenderer _lineRenderer;
     public List<Vector3> pos_laser = new List<Vector3>();
 
@@ -26,7 +26,7 @@ public class Laser : MonoBehaviour
     void Update()
     {
          _lineRenderer.SetPositions(pos_laser.ToArray());
-        RaycastHit2D hit = Physics2D.Raycast(pos_laser[0], new Vector2(0,1));
+        RaycastHit2D hit = Physics2D.Raycast(pos_laser[0], orientation);
         if (hit.collider & !hit.collider.name.Equals("Player") & !hit.collider.name.Equals("SquareLiana"))
         {
         

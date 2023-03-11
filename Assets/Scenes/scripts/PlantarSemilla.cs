@@ -6,6 +6,8 @@ public class PlantarSemilla : MonoBehaviour
 {
 
     public GameObject liana;
+    public GameObject laserWall;
+    private bool inRange;
 
     // Start is called before the first frame update
     void Start()
@@ -16,19 +18,25 @@ public class PlantarSemilla : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        if(laserWall) laserWall.SetActive(!liana.activeInHierarchy);
+
+        if (Input.GetKeyDown("space") && inRange)
+        {
+            liana.SetActive(!liana.activeInHierarchy);
+        }
     }
 
     private void OnTriggerEnter2D(Collider2D other) {
         if(other.tag == "Player") {
-            liana.SetActive(true);
-            //this.gameObject.SetActive(false);
+            // liana.SetActive(true);
+            inRange = true;
         }
     }
 
     private void OnTriggerExit2D(Collider2D other) {
         if(other.tag == "Player") {
-            liana.SetActive(false);
+            // liana.SetActive(false);
+            inRange = false;
         } 
     }
 }
