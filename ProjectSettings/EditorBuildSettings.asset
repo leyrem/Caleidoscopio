@@ -15,6 +15,18 @@ EditorBuildSettings:
     path: Assets/Scenes/Scenes/Sala1.unity
     guid: bdbd930943f6346e9a4b8ebe02666f8d
   - enabled: 1
+    path: Assets/Scenes/Scenes/Sala2.unity
+    guid: 58a3437866a04413c814bfe6ac10ee6f
+  - enabled: 1
     path: Assets/Scenes/Scenes/Sala3.unity
     guid: bc2a9b668dde443c6bcf11ff627fa11d
+  - enabled: 1
+    path: Assets/Scenes/Scenes/Sala4.unity
+    guid: 79c2c6da4987740a0889371be263dc02
+  - enabled: 1
+    path: Assets/Scenes/Scenes/Sala5.unity
+    guid: b0cf7f8562a556c44b547839611f789a
+  - enabled: 1
+    path: Assets/Scenes/Scenes/Outro.unity
+    guid: 7424bdc0820a29e4d8bb73c9dd910607
   m_configObjects: {}
